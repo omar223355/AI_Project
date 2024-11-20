@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>About Me</h1>
+    </header>
+    <main>
+        <img src="images/my_photo.jpg" alt="My Photo" style="width:200px; border-radius:50%;">
+        <p>My name is [Omar Alkhawlani]. I am passionate about technology and its impact on society.</p>
+        <h2>My Schedule</h2>
+        <table border="1">
+            <tr>
+                <th>Day</th>
+                <th>Activity</th>
+            </tr>
+            <tr>
+                <td>Monday</td>
+                <td>AI Research</td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td>Web Development Practice</td>
+            </tr>
+        </table>
+    </main>
+</body>
+</html>

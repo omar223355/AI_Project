@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparison Table</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Job Comparison Table</h1>
+    </header>
+    <main>
+        <table border="1">
+            <tr>
+                <th>Job Type</th>
+                <th>Risk of Automation</th>
+                <th>Benefits of AI</th>
+            </tr>
+            <tr>
+                <td>Manufacturing</td>
+                <td>High</td>
+                <td>Cost Efficiency</td>
+            </tr>
+            <tr>
+                <td>Healthcare</td>
+                <td>Low</td>
+                <td>Improved Diagnostics</td>
+            </tr>
+        </table>
+    </main>
+</body>
+</html>
